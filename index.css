@@ -1,0 +1,34 @@
+header{
+    border: 4px solid black;
+}
+header h1{ 
+    text-align: center;
+    
+}
+header img{
+    width: 300px;
+    
+}
+
+.divisaoImagem{
+    /*background: rgb(69, 7, 214);*/
+    padding: 20px;
+    display: flex ;
+    justify-content: center;
+}
+.tituloSessao{
+    text-align: center;
+}
+.ConteudoSessao{
+    display: flex; /* Pesquisar depois  */
+    align-items: center;
+
+}
+.ConteudoSessao img{
+    width: 256px;
+    
+}
+
+.sessaoAnime{
+    border: 4px solid black;
+}
